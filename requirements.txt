@@ -1,0 +1,5 @@
+selenium
+git+https://github.com/openai/whisper.git
+pillow
+torch==1.11.0
+pillow
